@@ -1,2 +1,1 @@
-# pokedex
-simple pokedex website
+# Pokédex
